@@ -1,0 +1,4 @@
+com\nalikaa\challenge\DomXMLParser.class
+com\nalikaa\challenge\InputHandler.class
+com\nalikaa\challenge\ResponseMessageGenerator.class
+com\nalikaa\test\InputHandlerTest.class
